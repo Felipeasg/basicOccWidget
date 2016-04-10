@@ -8,7 +8,7 @@ This example is based on qt examples of occt git repository (http://git.dev.open
 
 # To compile
 
-$ cd basicOccWidget
-$ mkdir build && cd build
-$ qmake ../
+$ cd basicOccWidget  
+$ mkdir build && cd build  
+$ qmake ../  
 $ make
